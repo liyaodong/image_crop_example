@@ -7,7 +7,7 @@ Can do this by Clouldinary
 - [x] Crop image to different sizes according to config(done by Cloudinary)
 
 ## Image upload management
-- [ ] Auto sync to s3 bucket from github by actions
+- [x] Auto sync to s3 bucket from github by actions
 
 ## Responsive image on hugo and amp
 - [ ] Shortcode for images(support path and size, auto convert to local folder or remote Cloudinary)
