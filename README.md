@@ -10,5 +10,4 @@ Can do this by Clouldinary
 - [x] Auto sync to s3 bucket from github by actions
 
 ## Responsive image on hugo and amp
-- [ ] Shortcode for images(support path and size, auto convert to local folder or remote Cloudinary)
-- [ ] AMP `srcset` and `sizes` generator
+- [x] AMP `srcset` and `sizes` generator
